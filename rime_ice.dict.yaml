@@ -17,6 +17,8 @@ import_tables:
   - cn_dicts/genshin  # 原神
   - cn_dicts/zzz      # 绝区零
   - cn_dicts/sr       # 崩坏星穹铁道
+  # - mydict1           # 挂载配置目录下的 mydict1.dict.yaml 词库文件
+  # - cn_dicts/mydict2  # 挂载 cn_dicts 目录里的 mydict2.dict.yaml 词库文件
 ...
 
 # 按需启用：
